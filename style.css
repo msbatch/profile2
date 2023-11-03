@@ -1,5 +1,12 @@
 p {
-	color: #FF0000;
+	color: #00ff2a;
 	font-weight: bold;
-	font-size:12px;
+	font-size:24px;
+}
+
+#demo_form {
+	background-color: fuchsia;
+	border: 10px double greenyellow;
+	padding:20%;
+	width:30%;
 }
